@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "expo-issue",
+    "name": "Проблема в названии",
     "slug": "expo-issue",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -18,10 +18,16 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.domnitskiy.oleg.expoissue"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "b75fb37e-0374-4760-b790-c9108eb8763d"
+      }
     }
   }
 }

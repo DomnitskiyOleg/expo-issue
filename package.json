@@ -1,5 +1,5 @@
 {
-  "name": "expo-issue",
+  "name": "Проблема в названии",
   "version": "1.0.0",
   "main": "expo/AppEntry.js",
   "scripts": {
@@ -10,7 +10,9 @@
   },
   "dependencies": {
     "expo": "~51.0.28",
+    "expo-dev-client": "~4.0.26",
     "expo-status-bar": "~1.12.1",
+    "expo-video": "^1.2.6",
     "react": "18.2.0",
     "react-native": "0.74.5"
   },
